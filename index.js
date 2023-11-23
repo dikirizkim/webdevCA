@@ -1,3 +1,3 @@
 function ButtonAlert() {
-    alert("AHSIAPPP!!!");
+    alert("lopyuuu");
 }
