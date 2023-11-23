@@ -1,3 +1,3 @@
-function buttonalert() {
+function ButtonAlert() {
     alert("AHSIAPPP!!!");
 }

@@ -14,6 +14,10 @@ p {
     color: blueviolet;
     font-family: sans-serif;
 }
+h2 {
+    color:papayawhip;
+    font-family: 'Courier New', Courier, monospace;
+}
 
 button {
     border-radius: 50px;
